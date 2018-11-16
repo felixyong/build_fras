@@ -1,0 +1,2 @@
+# SConstruct
+Program('main.cpp');
