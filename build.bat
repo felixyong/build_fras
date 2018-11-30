@@ -58,7 +58,8 @@ call %PYTHONDIR%\python.exe %SCONS_SCRIPT% %* 2>&1 | Tools\tee.exe build.log
 echo Result:
 program
 echo UnitTest:
-unittest
+unittest_SimpleMath
+clPICtrl_UnitTest
 
 ::****************************************************************************************************************************
 :: END
