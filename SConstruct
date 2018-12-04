@@ -18,16 +18,6 @@ sources2.extend([
 ])
 Program(target = 'unittest_SimpleMath', source = sources2)
 
-sources3 = []
-#files
-sources3.extend([
-'src\\gtest_main.cc',
-'src\\gtest-all.cc',
-'src\\clPICtrl.cpp',
-'src\\clPICtrl_UnitTest.cpp'
-])
-Program(target = 'clPICtrl_UnitTest', source = sources3)
-
 sources4 = []
 #files
 sources4.extend([
