@@ -1,5 +1,5 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Notes
+knowledge collection
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ==========================
@@ -30,6 +30,30 @@ append to the given FILEs, do not overwrite
 
 
 ==========================
-tee
+grep
 ==========================
 grep （缩写来自Globally search a Regular Expression and Print）是一种强大的文本搜索工具，它能使用特定模式匹配（包括正则表达式）搜索文本，并默认输出匹配行。
+
+==========================
+C++
+==========================
+# 调用拷贝构造函数的情况
+（1）一个对象以值传递的方式传入函数体
+（2）一个对象以值传递的方式从函数返回
+（3）一个对象需要通过另外一个对象进行初始化。
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Useful Websit
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+菜鸟教程
+http://www.runoob.com/
+
+Free Online IDE and Terminal
+http://www.tutorialspoint.com/codingground.htm
+
+Octave Online
+http://octave-online.net/
+
+Science Dictionary
+http://thesciencedictionary.org/

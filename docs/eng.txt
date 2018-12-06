@@ -1,0 +1,94 @@
+2018/12/05
+by convention
+
+2018/11/29
+cohesive
+comprehensible
+un-encapsulated
+onerous 
+
+2018/11/28
+penetration
+least privilege
+compartmentalization
+spoofing
+fuzz testing
+requirements elicitation
+
+
+2018/11/27
+overlook
+cumbersome
+
+
+2018/9/5
+Avoid language pitfalls
+lexicographical rules
+Are the security vulnerabilities?
+Hay Bale
+
+2018/8/29
+No global variables, singletons
+
+2018/07/11
+Concatenate strings
+
+2018/07/05
+A conflict of interest may defined as: A situation in which a person or his/her relative has a personal or other interest or there are other considerations which are sufficient to, or appear to, have the potential to influence the objective exercise of his or her duties as an employee such that the personal or other interests are at odds with the interests of the Company. 
+
+2018/7/3
+A quantum leap in electrification
+
+2016/06/27
+Dealing with amorphic input is virtually the only case when the use of a switch statement is fully legitimate in C++. 
+
+2018/06/05
+encapsulation
+
+2018/5/23
+The world of programming computers or other devices may be intimidating when you first step into it.
+NotePad is a very bare-bones editor.
+programming languages have a rigid syntax
+
+2018/4/16
+Syria vehemently denies this.
+Mr Macron said he told Russian President Vladimir Putin directly that Russia - which backs the Syrian government militarily - was complicit
+Russia says the attack in Douma was staged, accusing the UK of orchestrating it
+The US said 105 missiles were launched and it believed none were intercepted by Syrian defences.
+The elevators would be empty and the staircases would be full!
+
+2018/3/27
+Any cost / travel incurred by the employee not in line with the above rules, group or local travel policy that are not approved by an EC member, will not be reimbursed by the company.
+?
+2018/3/22
+Found defects are fixed (or closed as rejected or deferred)
+?
+2018/3/21
+1. This Framework ensures that processes are state-of-the-art.
+?
+2018/2/24
+1. This was the first (and last) time that I dared to defy my mother...
+2. Every major open-source project has its own style guide: a set of conventions (sometimes arbitrary) about how to write code for that project. 
+?
+Before 2018/2/24
+synergy
+substitute
+ground-breaking
+secretary
+Peter Drucker
+buzzword
+epilogue
+ion
+schema
+ceramic
+gradient
+merit
+lithium-ion
+leverage
+explicit
+validation
+expertise
+mitigates risks 
+obligation
+obliged
+?
