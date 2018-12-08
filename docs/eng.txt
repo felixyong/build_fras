@@ -15,7 +15,6 @@ spoofing
 fuzz testing
 requirements elicitation
 
-
 2018/11/27
 overlook
 cumbersome
