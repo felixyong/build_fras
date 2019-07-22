@@ -1,14 +1,8 @@
-# -*- coding: utf-8 -*- 
+"""
+A simple math module.
+"""
+__reversion__ = '0.1'
 
-def square(x):
-    '''
-    Squares a number and returns the result.
-    >>> square(2)
-    4
-    >>> square(3)
-    9
-    '''
-    return x*x
-
-def product(x,y):
-    return x*y
+def product(factor1, factor2):
+    'The product of two numbers'
+    return factor1 * factor2

@@ -3,11 +3,8 @@
 # 
 #-----------------------------------------------------------------------------------
 
-if __name__=='__main__':
-    import doctest, my_math
-    doctest.testmod(my_math)
-    
 import unittest, my_math
+from subprocess import Popen, PIPE
 
 class ProductTestCase(unittest.TestCase):
     
@@ -25,6 +22,9 @@ class ProductTestCase(unittest.TestCase):
                 p = my_math.product(x, y)
                 self.failUnless(p == x*y, 'Float multiplication failed')
     
-
-if __name__ == '__main__': unittest.main()
+    def testWithPyLint(self):
+        cmd = 'pylint', '-rn', 'my_math'
+        pylint = Popen(cmd, stdout = PIPE, stderr = PIPE)
+        self.assertEqual(pylint.stdout.read(), '')
     
+if __name__ == '__main__': unittest.main()
