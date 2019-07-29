@@ -1,3 +1,7 @@
+"""
+python simple_markup.py <BMW.txt> test_output.html
+"""
+
 import sys, re
 from util import *
 
