@@ -57,3 +57,5 @@ http://octave-online.net/
 
 Science Dictionary
 http://thesciencedictionary.org/
+
+Effectiv Python 编写高质量Python代码的59个有效方法
