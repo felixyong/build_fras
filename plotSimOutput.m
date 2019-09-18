@@ -4,14 +4,17 @@ clear pm*;
 clc;
 clear;
 close;
-%% build and sim
+
+%% initialize
 ps_simStepTime = 5e-6;
 ps_measSamplingTime = 50e-6;
 ps_simEndTime = 0.2; 
-mex timestwo.c
-sim timestwo_sim.mdl 
-%% plot output
 
+%% build
+mex timestwo.c	% if use VS to build, comment this line
+sim timestwo_sim.mdl 
+
+%% plot output
 figure('Name','times two s function');
 subplot(1,1,1);
 hold all;
