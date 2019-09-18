@@ -1,2 +1,2 @@
 @ echo off
-matlab -nosplash -nodesktop -r plotSimoutput -wait -logfile output.log
+matlab -nosplash -nodesktop -r plotSimOutput -wait -logfile output.log
